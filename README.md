@@ -1,0 +1,3 @@
+# Readme
+This repo is for Bromsgrove & Redditch Mountaineering Club data.
+Little else to say on the subject, it's not really for general consumption...
