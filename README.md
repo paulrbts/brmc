@@ -5,4 +5,4 @@ The content of the works contained in the `brmc` repo are copyrighted by the var
 
 All intellectual property including, but not limited to, logos, artwork, and other such designs are copyright of Bromsgrove and Redditch Mountaineering Club.
 
-If you wish to use any part of these works, please contact me through Github.
+If you wish to use any part of these works, please [mailto:bryophytic@icloud.com](contact me) through Github.
